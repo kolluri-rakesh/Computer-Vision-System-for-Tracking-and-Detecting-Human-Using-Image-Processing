@@ -16,3 +16,17 @@ information is accumulated over time. It makes a global decision. The most possi
 generates the multiple objects tracking result. The trajectories provide information of object
 identifications, motion histories, timing and object interactions. The information can be applied to
 detect abnormal behaviors in video surveillance and collect traffic data in traffic control systems
+
+---> Technologies Used
+
+•	Computer Vision Libraries/Frameworks 
+•	Machine Learning/Deep Learning Models
+•	Image Processing Techniques
+•	Background Modeling Algorithms
+•	Object Tracking Algorithms
+
+
+---> Roles
+	Machine Learning Engineer
+	Software Developer/Engineer
+
